@@ -1,7 +1,7 @@
 INCLUDE options/options.makejail
 
 # ajspec
-ARG wp_ajspec=gh+AppJail-makejails/wordpress
+ARG wp_ajspec=gh+dttocs/appjail-makejail-wordpress
 # Database settings
 ARG wp_db_name=database_name_here
 ARG wp_db_user=username_here
